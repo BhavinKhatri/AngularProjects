@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularDemo", "AngularDemo\AngularDemo.csproj", "{06E48AA2-AC8D-4A41-8815-1C035504A12E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{0171F16F-76BD-4103-A170-F32B04757CBF}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularDemo.Test", "AngularDemo.Test\AngularDemo.Test.csproj", "{F737C733-9402-41AB-A023-7CB5FEEA2140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E48AA2-AC8D-4A41-8815-1C035504A12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E48AA2-AC8D-4A41-8815-1C035504A12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E48AA2-AC8D-4A41-8815-1C035504A12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E48AA2-AC8D-4A41-8815-1C035504A12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F737C733-9402-41AB-A023-7CB5FEEA2140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F737C733-9402-41AB-A023-7CB5FEEA2140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F737C733-9402-41AB-A023-7CB5FEEA2140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F737C733-9402-41AB-A023-7CB5FEEA2140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,228 @@
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\AngularDemo.dll.config
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\AngularDemo.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\AngularDemo.pdb
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Antlr3.Runtime.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Autofac.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Autofac.Integration.Mvc.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Autofac.Integration.SignalR.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Autofac.Integration.WebApi.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\EntityFramework.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.Owin.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Newtonsoft.Json.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Owin.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.Helpers.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.Http.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.Mvc.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.Optimization.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.Razor.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.WebPages.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\WebGrease.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Antlr3.Runtime.pdb
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Autofac.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Autofac.Integration.Mvc.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Autofac.Integration.SignalR.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Autofac.Integration.WebApi.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\EntityFramework.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.Owin.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\Newtonsoft.Json.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.Helpers.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.Http.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.Mvc.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.Optimization.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.Razor.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.WebPages.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\obj\Debug\AngularDemo.dll
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\AngularDemo\AngularDemo\obj\Debug\AngularDemo.pdb
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\AngularDemo.dll.config
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\AngularDemo.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\AngularDemo.pdb
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Antlr3.Runtime.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Autofac.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Autofac.Integration.Mvc.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Autofac.Integration.SignalR.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Autofac.Integration.WebApi.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\EntityFramework.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.Owin.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Newtonsoft.Json.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Owin.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.Helpers.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.Http.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.Mvc.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.Optimization.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.Razor.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.WebPages.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\WebGrease.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Antlr3.Runtime.pdb
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Autofac.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Autofac.Integration.Mvc.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Autofac.Integration.SignalR.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Autofac.Integration.WebApi.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\EntityFramework.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.Owin.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\Newtonsoft.Json.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.Helpers.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.Http.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.Mvc.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.Optimization.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.Razor.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.WebPages.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csprojResolveAssemblyReference.cache
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\obj\Debug\AngularDemo.dll
+C:\Users\Apurva\Desktop\AngularDemo\AngularDemo\obj\Debug\AngularDemo.pdb
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\AngularDemo.dll.config
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\AngularDemo.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\AngularDemo.pdb
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Antlr3.Runtime.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.Integration.Mvc.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.Integration.SignalR.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.Integration.WebApi.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\EntityFramework.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Owin.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Newtonsoft.Json.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Owin.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Helpers.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Http.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Mvc.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Optimization.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Razor.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.WebPages.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\WebGrease.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Antlr3.Runtime.pdb
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.Integration.Mvc.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.Integration.SignalR.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.Integration.WebApi.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\EntityFramework.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Owin.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\Newtonsoft.Json.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Helpers.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Http.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Mvc.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Optimization.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Razor.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.WebPages.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csprojResolveAssemblyReference.cache
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.dll
+C:\Users\bhavin\Desktop\AngularDemo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.pdb
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csprojResolveAssemblyReference.cache
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.pdb
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\AngularDemo.dll.config
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\AngularDemo.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\AngularDemo.pdb
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Antlr3.Runtime.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.Integration.Mvc.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.Integration.SignalR.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.Integration.WebApi.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\EntityFramework.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\EntityFramework.SqlServer.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Owin.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Owin.Security.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Newtonsoft.Json.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Owin.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Net.Http.Formatting.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Helpers.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Http.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Http.WebHost.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Mvc.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Optimization.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Razor.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.WebPages.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.WebPages.Razor.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\WebGrease.dll
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Antlr3.Runtime.pdb
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.Integration.Mvc.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.Integration.SignalR.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Autofac.Integration.WebApi.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\EntityFramework.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\EntityFramework.SqlServer.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Owin.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Microsoft.Owin.Security.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\Newtonsoft.Json.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Net.Http.Formatting.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Helpers.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Http.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Http.WebHost.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Mvc.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Optimization.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.Razor.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.WebPages.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Bhavin pc Backup\Bhavin\demoprojects\Anustup's Demo Project\AngularDemo\AngularDemo\AngularDemo\bin\System.Web.WebPages.Razor.xml
