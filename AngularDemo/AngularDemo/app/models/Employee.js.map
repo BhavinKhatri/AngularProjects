@@ -1,0 +1,1 @@
+{"version":3,"file":"Employee.js","sourceRoot":"","sources":["Employee.ts"],"names":["Model","Model.Employee","Model.Employee.constructor"],"mappings":"AAAA,IAAO,KAAK;AAUX,CAVD,UAAO,KAAK;IACRA;QACIC,kBAAYA,SAA0BA;YAA1BC,cAAiBA,GAATA,SAASA;AAASA,QAEtCA,CAACA;QAKLD,gBAACA;IAADA,CAACA,IAAAD;IARDA,0BAQCA;AACLA,CAACA,yBAAA"}
