@@ -22,7 +22,6 @@ app.factory("EmployeeService", [
         var service = {
             CreateEmployee: function (employee) {
                 var promise = employees.save(employee).$promise;
-                tracker.addPromise(promise);
                 return promise;
             },
             GetEmployees: function () {

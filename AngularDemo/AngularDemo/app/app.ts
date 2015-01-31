@@ -1,7 +1,6 @@
 // Install the angularjs.TypeScript.DefinitelyTyped NuGet package to resovle the reference paths,
 // then adjust the path value to be relative to this file
 /// <reference path='../Scripts/typings/angularjs/angular.d.ts'/>
-/// <reference path='../Scripts/typings/angularjs/angular-resource.d.ts'/>
 
 interface Iapp extends ng.IModule { }
 
@@ -12,7 +11,7 @@ var app: Iapp = angular.module('app', [
 ]);
 
 app.config([
-    '$provide', ($provide) => {
+    '$provide', '$compileProvider', ($provide, $compileProvider) => {
         $provide.decorator('$log', [
             '$delegate', ($delegate) => {
                 //var prepareLogFunction = toastrDisplayMethod=> { throw new Error("Not implemented"); };
@@ -31,6 +30,7 @@ app.config([
                 }
                 return $delegate;
             }]);
+        $compileProvider.debugInfoEnabled(false);
     }
 ]);
 

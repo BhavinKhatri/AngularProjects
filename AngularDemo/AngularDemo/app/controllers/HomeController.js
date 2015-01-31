@@ -10,6 +10,7 @@ var HomeController = (function () {
         this.$scope = $scope;
         this.$log = $log;
         this.employeeService = employeeService;
+        this.$log.info('Controller called.');
         $scope.Employee = new Model.Employee(false);
         $scope.Action = "Create";
         $scope.CreateOrUpdateEmployee = function (employee) {

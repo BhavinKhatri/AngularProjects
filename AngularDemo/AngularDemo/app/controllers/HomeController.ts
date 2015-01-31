@@ -31,6 +31,7 @@ class HomeController implements IHomeController {
         private $scope: IHomeControllerScope,
         private $log: ng.ILogService,
         public employeeService) {
+        this.$log.info('Controller called.');            
         $scope.Employee = new Model.Employee(false);
         $scope.Action = "Create";
         $scope.CreateOrUpdateEmployee = (employee: Model.Employee) => this.CreateOrUpdateEmployee(employee);
@@ -62,7 +63,7 @@ class HomeController implements IHomeController {
 
     public GetEmployees() {
         var promise = this.employeeService.GetEmployees();                     
-        promise.then((result) => {            
+        promise.then((result) => {
             this.$scope.Employees = result;
         });
     }    

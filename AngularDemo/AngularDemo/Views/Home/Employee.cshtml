@@ -5,11 +5,11 @@
 
 <h2>Decorator</h2>
 <div ng-controller="HomeController" class="container">
-    
-    
-    @*<div ng-show="loadingTracker.active()" class="BusyIndicator">
+
+
+    <div ng-show="loadingTracker.active()" class="BusyIndicator">
         <span>{{LoadingText}}</span>
-    </div>    
+    </div>
     <form id="form1" role="form" ng-model="Employee" ng-submit="CreateOrUpdateEmployee(Employee)">
         <h3>Create Employee</h3>
         <div class="form-group">
@@ -17,13 +17,14 @@
             <input class="form-control" type="text" name="name" id="name" value="" ng-model="Employee.Name" ng-required />
         </div>
         <div class="form-group">
-            <label for="salary">Salary</label><input class="form-control" type="number" name="salary" id="salary" value="" ng-model="Employee.Salary" ng-required />
+            <label for="salary">Salary</label><input class="form-control" type="number" name="salary" id="salary" value="" ng-model="Employee.Salary" ng-required ng-model-options="{ updateOn: 'blur' }" />
         </div>
         <div class="form-group">
-            <label for="age">Age</label><input class="form-control" type="number" name="age" id="age" value="" ng-model="Employee.Age" ng-required />
-        </div>
-        <div class="form-group">
-            <label for="age">Age</label><input class="form-control" type="number" name="age" id="age" value="" ng-model="Employee.Gender" ng-required />
+            <label for="age">Age</label><input class="form-control" type="number" name="age" id="age" value="" check-employee-age age="Employee.Age" ng-model="Employee.Age" ng-required ng-model-options="{ debounce: 1000 }" />
+            <div ng-messages="form1.age.$error" ng-messages-include="/Views/Home/ErrorMessage.html"></div>
+            <div ng-show="form1.age.$valid">Duplicate title.</div>
+            <div ng-message="form1.age.$error">This field is required.</div>
+
         </div>
         <button type="submit" name="submit" class="btn btn-default">{{Action}}</button>
         <button ng-click="LogConsole()" name="submit" class="btn btn-default">Log</button>
@@ -50,7 +51,7 @@
                         <a href="#" ng-click="SelectEmployee(emps)">{{emps.Id}}</a>
                     </td>
                     <td>
-                        {{emps.Name}}
+                        {{::emps.Name}}
                     </td>
                     <td>
                         {{emps.Age}}
@@ -64,14 +65,8 @@
                 </tr>
             </tbody>
         </table>
-        <pre>
-{{Employees | json}}
-</pre>
-        <pre>
-{{Employee | json}}
-</pre>
-    </div>*@
-    
+    </div>
+
     @*Button Call*@
     <button ng-click="callLog()">Call Log</button>
 </div>

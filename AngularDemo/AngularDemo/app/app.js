@@ -1,7 +1,6 @@
 // Install the angularjs.TypeScript.DefinitelyTyped NuGet package to resovle the reference paths,
 // then adjust the path value to be relative to this file
 /// <reference path='../Scripts/typings/angularjs/angular.d.ts'/>
-/// <reference path='../Scripts/typings/angularjs/angular-resource.d.ts'/>
 
 // Create the module and define its dependencies.
 var app = angular.module('app', [
@@ -10,7 +9,7 @@ var app = angular.module('app', [
 ]);
 
 app.config([
-    '$provide', function ($provide) {
+    '$provide', '$compileProvider', function ($provide, $compileProvider) {
         $provide.decorator('$log', [
             '$delegate', function ($delegate) {
                 //var prepareLogFunction = toastrDisplayMethod=> { throw new Error("Not implemented"); };
@@ -29,6 +28,7 @@ app.config([
                 }
                 return $delegate;
             }]);
+        $compileProvider.debugInfoEnabled(false);
     }
 ]);
 

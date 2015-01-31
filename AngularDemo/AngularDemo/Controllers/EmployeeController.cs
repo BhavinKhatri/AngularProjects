@@ -27,14 +27,14 @@ namespace AngularDemo.Controllers
 
         // GET api/Employee/5
         [ResponseType(typeof(Employee))]
-        public async Task<IHttpActionResult> GetEmployee(int id)
+        public IHttpActionResult GetEmployee(Employee employee)
         {
-            Employee employee = await db.Employees.FindAsync(id);
-            if (employee == null)
-            {
-                return NotFound();
-            }
-            Thread.Sleep(5000);
+            //Employee employee = await db.Employees.FindAsync(id);
+            //if (employee == null)
+            //{
+            //    return NotFound();
+            //}
+            //Thread.Sleep(5000);
             return Ok(employee);
         }
 
@@ -74,17 +74,17 @@ namespace AngularDemo.Controllers
 
         // POST api/Employee
         [ResponseType(typeof(Employee))]
-        public async Task<IHttpActionResult> PostEmployee(Employee employee)
+        public IHttpActionResult PostEmployee(Employee employee)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
+            //if (!ModelState.IsValid)
+            //{
+            //    return BadRequest(ModelState);
+            //}
 
-            db.Employees.Add(employee);
-            await db.SaveChangesAsync();
-            Thread.Sleep(5000);
-            return CreatedAtRoute("DefaultApi", new { id = employee.Id }, employee);
+            //db.Employees.Add(employee);
+            //await db.SaveChangesAsync();
+            //Thread.Sleep(5000);
+            return Ok(employee);
         }
 
         // DELETE api/Employee/5
